@@ -1,0 +1,16 @@
+{
+  "name": "mobile-first",
+  "version": "1.0.0",
+  "description": "Maquetación web pensado en dispositivos móviles primero",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Mobile",
+    "web",
+    "css"
+  ],
+  "author": "Pedro Cruz",
+  "license": "MIT"
+}
